@@ -2,11 +2,13 @@
 Detect PoE Power and connect or not
 
 ## Install required package
+'''
 $ sudo apt-get install qt5-default qttools5-dev-tools
 $ sudo apt-get update
 $ sudo apt-get install python3-pip
 $ pip3 install --upgrade pip
 $ pip3 install pyqt5
+'''
 
 ## Run sample
 $ sudo python3 PoE_Detector.py  
