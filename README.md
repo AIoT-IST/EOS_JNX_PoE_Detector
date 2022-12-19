@@ -15,6 +15,7 @@ $ pip3 install pyqt5
 
 ## Run sample
 $ sudo python3 PoE_Detector.py  
+![screenshoot](EOS-JNX_PoE_Detector.JPG)
 
 ## Edit UI
 $ designer
